@@ -1,2 +1,3 @@
 # Parallel-programming-project
-(university project about parallel programming with Cuda framework)
+University project about parallel programming with Cuda framework.
+Topic: array sorting algorithms (Bubble-sort and Merge-sort).
